@@ -11,7 +11,7 @@ package human;
  */
 public class Child extends Human {
    
-   public int intellegience_rating = 111;
+   public int intelligence_rating = 111;
    public int mood_rating = 6;
    public String [] genetic_diseases = {"Obesity", "Arthritis"};
    public int wealth_rating = 987654321;

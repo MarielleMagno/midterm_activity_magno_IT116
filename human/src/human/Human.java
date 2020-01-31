@@ -36,7 +36,7 @@ public class Human {
        System.out.println(b.name);
        //run child
        Child a = new Child();
-       System.out.println(a.intellegience_rating);
+       System.out.println(a.intelligence_rating);
        System.out.println(a.mood_rating);
        System.out.println(a.genetic_diseases[0]);
        System.out.println(a.wealth_rating);
